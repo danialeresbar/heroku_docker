@@ -1,2 +1,1 @@
-# heroku_docker
-Repositorio para prueba de despliegue con heroku
+App Django para despliegue con heroku
